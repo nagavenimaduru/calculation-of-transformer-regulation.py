@@ -1,1 +1,0 @@
-# calculation-of-transformer-regulation.py
